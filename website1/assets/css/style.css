@@ -1,4 +1,21 @@
 body{
+    background: white
+}
+.card-title {
+    color: cornflowerblue;
+    background: white;
+}
+
+.card {
+    border: 0px;
+}
+
+.titleportfolio {
+    font-size: 40px;
+}
+
+.parrafoheader {
+    font-size: 22px;
     background: #BDBDBD;
 }
 
