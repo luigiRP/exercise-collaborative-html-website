@@ -1,6 +1,26 @@
 body{
+    background: white;
+}
+
+.form{
+    background-color:  lightgray;
+}
+
+button{
+    background: rgb(84, 153, 199 );
+    color: white;
+}
+
+textarea{
+    height: 6rem;
+    border-color:lightgray;
+}
+
+input{
+    border-color: lightgray;
     background: white
 }
+
 .card-title {
     color: cornflowerblue;
     background: white;
