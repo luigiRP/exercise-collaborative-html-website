@@ -16,4 +16,25 @@ body{
 
 .parrafoheader {
     font-size: 22px;
+    background: #BDBDBD;
+}
+
+.custom {
+    background-color: #232323 !important;
+}
+
+.city {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: bottom center;
+    height: 42rem;
+    padding-top: 5rem;
+}
+
+.city h1 {
+    font-size: 8rem;
+}
+
+.city h2 {
+    font-size: 4rem;
 }
