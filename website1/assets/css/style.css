@@ -19,6 +19,56 @@ body{
     background: #BDBDBD;
 }
 
+
+.man {
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    padding: 40px;
+}
+
+.laptop {
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    padding: 40px;
+}
+
+#manimg {
+    width: 200px;
+    height: 200px;
+    margin-left: 5px;
+    float: right;
+    border-radius: 50%;
+}
+
+#laptopimg {
+    width: 200px;
+    height: 200px;
+    margin-right: 5px;
+    float: left;
+    border-radius: 50%;
+}
+
+#text-a {
+margin-right: 20px;
+}
+
+#text-b {
+margin-left: 20px;
+}
+
+.font-gray {
+    color: gray;
+    margin-left: 5px;
+}
+
+h1 {
+    display: flex;
+  flex-wrap: wrap;
+
 .custom {
     background-color: #232323 !important;
 }
