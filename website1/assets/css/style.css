@@ -1,17 +1,110 @@
 body{
     background: white;
 }
+
 .form{
     background-color:  lightgray;
 }
+
 button{
     background: rgb(84, 153, 199 );
     color: white;
 }
+
 textarea{
     height: 6rem;
     border-color:lightgray;
 }
+
 input{
     border-color: lightgray;
+    background: white
+}
+
+.card-title {
+    color: cornflowerblue;
+    background: white;
+}
+
+.card {
+    border: 0px;
+}
+
+.titleportfolio {
+    font-size: 40px;
+}
+
+.parrafoheader {
+    font-size: 22px;
+    background: #BDBDBD;
+}
+
+
+.man {
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    padding: 40px;
+}
+
+.laptop {
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    padding: 40px;
+}
+
+#manimg {
+    width: 200px;
+    height: 200px;
+    margin-left: 5px;
+    float: right;
+    border-radius: 50%;
+}
+
+#laptopimg {
+    width: 200px;
+    height: 200px;
+    margin-right: 5px;
+    float: left;
+    border-radius: 50%;
+}
+
+#text-a {
+margin-right: 20px;
+}
+
+#text-b {
+margin-left: 20px;
+}
+
+.font-gray {
+    color: gray;
+    margin-left: 5px;
+}
+
+h1 {
+    display: flex;
+  flex-wrap: wrap;
+
+.custom {
+    background-color: #232323 !important;
+}
+
+.city {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: bottom center;
+    height: 42rem;
+    padding-top: 5rem;
+}
+
+.city h1 {
+    font-size: 8rem;
+}
+
+.city h2 {
+    font-size: 4rem;
 }
